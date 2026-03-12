@@ -9,6 +9,6 @@ This project demonstrates a complete DevOps workflow for a Node.js application, 
 - **Registry Integration**: Integrated with Docker Hub for automated image distribution.
 
 ## How to Run
-1. Clone the repo: `git clone [your-repo-link]`
+1. Clone the repo: `git clone https://github.com/randilu619/docker-node-tutorial.git`
 2. Build the image: `docker build -t node-newv1 .`
 3. Run the container: `docker run -p 5000:5000 node-newv1`
